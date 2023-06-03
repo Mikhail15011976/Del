@@ -1,0 +1,4 @@
+Дата и время вызова функции 2023-06-03 06:53:29.147649
+Имя функции <function Flat_generator at 0x000001F42B77A320>
+Данные args [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]]
+Возвращаемое значение функции <generator object Flat_generator at 0x000001F42BB99A10>
